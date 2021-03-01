@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link href="../styles.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<style type="text/css">
+</style>
+	
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+	<div id="container">
+  <header></header>
+  <nav>
+	<ul>
+		<li><a href="../pages/about.html">About</a></li>
+		<li><a href="../pages/blog.html">Blog</a></li>
+		<li><a href="../pages/gallery.html">Gallery</a></li>
+		<li><a href="../pages/contact.html">Contact</a></li>
+	  </ul>
+	</nav>
+  <!--Begin Floated Elements-->
+  <aside>
+    <h3>I'm a student, a friend, a daughter, a sister, and a singer. </h3>
+	  <h3>Join me as I show you different aspects of my life.</h3>
+	  <h3>by Katelyn Romary</h3>
+  </aside>
+  <!-- TemplateBeginEditable name="main-content" -->
+  <main>
+    <h1>Page Title</h1>
+  </main>
+  <!-- TemplateEndEditable -->  <!--End Floated Elements-->
+  <footer>&nbsp;</footer>
+</div>
+</body>
+</html>
